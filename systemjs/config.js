@@ -38,7 +38,9 @@
         'core/utils/threeWrappers',
         'core/loader',
         'core/plugin',
-        'core/particleSystem'
+        'core/particleSystem',
+        'core/camera',
+        'core/avatar',
     ];
 
     function packIndex(moduleName) {
